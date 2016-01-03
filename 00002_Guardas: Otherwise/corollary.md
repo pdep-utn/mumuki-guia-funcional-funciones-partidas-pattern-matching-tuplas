@@ -1,0 +1,7 @@
+###Genial!
+
+Ahora te voy a contar un secreto, si probas en la consola escribir `otherwise` y le das enter, vas a ver que en realidad es una constante que es igual a ... `True`!
+
+Pero ¿por qué?.
+
+Si nos acordamos de lo que habíamos comentado antes, de que cada condición se evalúa de arriba a hacia abajo, si se llega al `otherwise` significa que ninguna de las anteriores condiciones cumplió, entonces se debe ingresar en ella ¡y `True` es una condición que siempre cumple! :boom: _Mind Blown_
