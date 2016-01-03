@@ -1,0 +1,8 @@
+---
+expectations:
+- binding: cantidadDePochoclosParaMinutosDeCine
+  inspection: HasBinding
+- binding: cantidadDePochoclosParaMinutosDeCine
+  inspection: HasGuards
+- binding: cantidadDePochoclosParaMinutosDeCine
+  inspection: HasUsage:otherwise
