@@ -21,4 +21,4 @@ Las condiciones siempre son evaluados **de arriba hacia abajo**, osea si no cump
 
 ###¡Ahora intentalo vos!:
 
-Definí la función `minimoEntre\2` que dado dos números devuelve el menor de ellos. (En caso de ser iguales devuelve el primero). 
+Definí la función `minimoEntre\2` que dado dos números devuelve el menor de ellos. (En caso de ser iguales devuelve cualquiera de los dos, pero lo importante es que devuelva alguno). 

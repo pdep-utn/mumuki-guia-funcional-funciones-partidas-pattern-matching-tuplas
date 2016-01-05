@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: minimoEntre
+  inspection: HasBinding
+- binding: minimoEntre
+  inspection: HasGuards
