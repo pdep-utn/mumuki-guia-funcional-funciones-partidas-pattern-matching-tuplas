@@ -1,0 +1,1 @@
+Acordate de usar la **variable anónima** cuando el valor del parámetro no sea útil para la definición de la función.

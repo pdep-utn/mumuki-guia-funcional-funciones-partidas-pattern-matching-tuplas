@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: estadoDeAnimo
+  inspection: HasBinding
+- binding: estadoDeAnimo
+  inspection: Not:HasGuards
