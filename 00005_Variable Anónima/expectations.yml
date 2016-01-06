@@ -4,3 +4,5 @@ expectations:
   inspection: HasBinding
 - binding: estadoDeAnimo
   inspection: Not:HasGuards
+- binding: estadoDeAnimo
+  inspection: HasAnonymousVariable

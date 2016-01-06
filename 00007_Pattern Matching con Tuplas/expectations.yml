@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: poderSoldado
+  inspection: HasBinding
+- binding: poderSoldado
+  inspection: HasAnonymousVariable
