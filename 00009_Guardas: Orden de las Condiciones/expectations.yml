@@ -1,0 +1,10 @@
+---
+expectations:
+- binding: horasDuerme
+  inspection: HasBinding
+- binding: horasDuerme
+  inspection: HasUsage:estudiaIngenieria
+- binding: horasDuerme
+  inspection: HasUsage:programa
+- binding: horasDuerme
+  inspection: Not:HasUsage:&&
