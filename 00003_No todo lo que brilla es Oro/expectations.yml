@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: siempreDiceLaVerdad
+  inspection: HasBinding
+- binding: siempreDiceLaVerdad
+  inspection: Not:HasGuards

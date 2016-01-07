@@ -19,4 +19,10 @@ esEdadAdulta edad   | edad > 18 = True
 esEdadAdulta edad = edad > 18
 ```
 
-Así que ¡ya están avisados!, no esperen piedad si escriben lo primero en un examen :stuck_out_tongue:.
+<br>
+
+###José no usa las guardas innecesariamente, sé como José:
+
+Definí la función `siempreDiceLaVerdad\1` que recibe una persona, una persona dice la verdad si es un chico o si es borracho.
+
+(suponer `esChico\1` y `esBorracho\1` ambas reciben una persona y ya están desarrolladas).
