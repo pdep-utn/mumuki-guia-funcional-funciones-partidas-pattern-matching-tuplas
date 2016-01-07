@@ -1,0 +1,1 @@
+Tengamos en cuenta que en el ejemplo anterior, el día de mañana si cambiamos nuestro sistema y agregamos un valor más a la tupla (por ejemplo la salud del soldado) no vamos a necesitar cambiar aquellas funciones que como `soldadoLeGanaA\2` no trabajan con sus valores internos, sino solo con aquellas que sí deconstruyen a la tupla como `poderSoldado\1`.
