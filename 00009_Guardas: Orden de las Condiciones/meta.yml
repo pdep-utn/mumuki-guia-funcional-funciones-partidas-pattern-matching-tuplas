@@ -1,4 +1,6 @@
 ---
-tags: []
+tags:
+- orden guardas
+- dominio reducido
 layout: editor_right
 type: problem

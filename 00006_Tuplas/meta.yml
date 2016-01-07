@@ -1,4 +1,7 @@
 ---
-tags: []
+tags:
+- tuplas
+- fst
+- snd
 layout: editor_right
 type: problem

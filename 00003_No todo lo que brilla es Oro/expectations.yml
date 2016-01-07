@@ -4,3 +4,7 @@ expectations:
   inspection: HasBinding
 - binding: siempreDiceLaVerdad
   inspection: Not:HasGuards
+- binding: siempreDiceLaVerdad
+  inspection: HasUsage:esBorracho
+- binding: siempreDiceLaVerdad
+  inspection: HasUsage:esChico

@@ -1,4 +1,7 @@
 ---
-tags: []
+tags:
+- patrones
+- funciones partidas
+- pattern matching
 layout: editor_right
 type: problem
