@@ -21,8 +21,3 @@ nombreDelNumero _ = "no está entre 1 y 3"
 ###Veamos si queda claro:
 
 Definí la función `estadoDeAnimo\1`, que recibe el nombre de un día de la semana, y si este es "Viernes", este devuelve (según una [conocida canción](https://es.wikipedia.org/wiki/Friday_I%27m_in_Love)) _"¡Estoy enamorado!"_, en cualquier otro caso devuelve "Meh :S".
-
-
-##Disclaimer:
-
-A este ejercicio le falta chequeo de si tiene variable anónima. Hasta el momento no existe tal inspection.

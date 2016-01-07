@@ -1,4 +1,4 @@
-Como te contabamos en la intro de esta guía, las **guardas** son una forma de escribir funciones por partes, que se definiran de una u otra forma según una condición sobre el dominio de la función.
+Las **guardas** son una forma de escribir funciones por partes, que se definiran de una u otra forma según una condición sobre el dominio de la función.
 
 Un ejemplo de esto es la función módulo. Esta conocida función está definida en notación matemática de la siguiente forma:
 
