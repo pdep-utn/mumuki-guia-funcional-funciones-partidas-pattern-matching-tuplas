@@ -4,3 +4,5 @@ expectations:
   inspection: HasTypeSignature
 - binding: esVocalAbierta
   inspection: Not:HasBinding
+- binding: ''
+  inspection: ''

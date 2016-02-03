@@ -1,0 +1,8 @@
+---
+expectations:
+- binding: puntosParaSetenta
+  inspection: HasTypeSignature
+- binding: puntosParaSetenta
+  inspection: HasBinding
+- binding: puntosParaSetenta
+  inspection: Not:HasGuards

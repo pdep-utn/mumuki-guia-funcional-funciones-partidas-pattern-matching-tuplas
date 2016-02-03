@@ -11,14 +11,14 @@ Los patrones más básicos son los valores literales, como por ejemplo: `4`, `'a
 ```haskell
 esVocalCerrada 'o' = True
 esVocalCerrada 'u' = True
-esVocalAbierta 'a' = False
-esVocalAbierta 'e' = False
-esVocalAbierta 'i' = False
+esVocalCerrada 'a' = False
+esVocalCerrada 'e' = False
+esVocalCerrada 'i' = False
 ```
 
 Esto lo que significa es: si el `Char` que vino por parámetro es `'o'`, es una vocal cerrada, si es `'u'`, también, si es `'a'`, no, etc.  Es decir, estamos expresando la imagen de la función, caso por caso. 
 
-> Veamos si queda claro: ya cargamos la función `esVocalAbierta` en la consola. Probá que sucede al aplicarla con vocales abiertas, cerradas y caracteres que no son vocales. 
+> Veamos si queda claro: ya cargamos la función `esVocalCerrada` en la consola. Probá que sucede al aplicarla con vocales abiertas, cerradas y caracteres que no son vocales. 
 
 
 
