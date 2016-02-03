@@ -4,7 +4,7 @@ El chiste de la tupla es que no voy a querer siempre tratar los valores que la c
 
 Para dar un ejemplo aprovechemos la tupla que habíamos creado para representar un soldado en el ejercicio anterior. Ahora queremos una función `soldadoLeGanaA\2` que recibe dos tuplas de este tipo, o mejor dicho dos soldados, devuelva si el primero tiene mayor poder que el segundo:
 
-```
+```haskell
 soldadoLeGanaA ganador perdedor = poderSoldado ganador > poderSoldado perdedor
 ```
 

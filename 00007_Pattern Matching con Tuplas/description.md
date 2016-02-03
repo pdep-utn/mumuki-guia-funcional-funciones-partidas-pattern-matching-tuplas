@@ -16,8 +16,7 @@ A este patrón además lo podemos combinar con el que habíamos visto antes, el 
 
 `(4,_)`, `("Hector",a,b)`, `(_,True,_)`, `((a,b,_),_)`, etc.
 
-###Ok, tiempo para practicar:
 
-Definí la función `poderSoldado\1` que recibe una tupla que modela a un soldado, compuesta por: el nombre, la fuerza y la destreza del soldado.
-
-Su poder se calcula como la fuerza por la destreza.
+> Definí la función `poderSoldado\1` que recibe una tupla que modela a un soldado, compuesta por: el nombre, la fuerza y la destreza del soldado.
+> 
+> Su poder se calcula como la fuerza por la destreza.
