@@ -8,3 +8,5 @@ expectations:
   inspection: HasUsage:esBorracho
 - binding: siempreDiceLaVerdad
   inspection: HasUsage:esChico
+- binding: ''
+  inspection: ''

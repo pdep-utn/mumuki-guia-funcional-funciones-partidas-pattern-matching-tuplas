@@ -1,0 +1,1 @@
+¿Cual será el tipo de la función que acabamos de definir?

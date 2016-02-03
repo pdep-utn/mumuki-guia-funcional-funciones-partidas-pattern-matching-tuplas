@@ -1,6 +1,0 @@
----
-expectations:
-- binding: puntosParaSetenta
-  inspection: HasBinding
-- binding: puntosParaSetenta
-  inspection: Not:HasGuards

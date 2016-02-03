@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: esCero
+  inspection: Not:HasUsage:==
+- binding: esCero
+  inspection: Not:HasGuards
