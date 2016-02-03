@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: esVocalAbierta
+  inspection: HasTypeSignature
+- binding: esVocalAbierta
+  inspection: Not:HasBinding
