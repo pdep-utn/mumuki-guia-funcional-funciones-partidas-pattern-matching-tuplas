@@ -6,3 +6,5 @@ expectations:
   inspection: HasGuards
 - binding: cantidadDePochoclosParaMinutosDeCine
   inspection: HasUsage:otherwise
+- binding: ''
+  inspection: ''

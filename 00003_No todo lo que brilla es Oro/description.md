@@ -1,4 +1,4 @@
->_Cuando te dan un martillo, todo parece ser un clavo._
+_Cuando te dan un martillo, todo parece ser un clavo._
 
 ###Para Pensar:
 
