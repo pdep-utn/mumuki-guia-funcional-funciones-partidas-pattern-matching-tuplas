@@ -1,1 +1,1 @@
-Así que ¡ya están avisados!, ahora cuando Mumuki te mire mal y te diga que tu función: "tiene guardas innecesarias" no digas que no te avisamos :stuck_out_tongue:.
+Así que ¡ya están avisados!, ahora te miremos mal y te digamos que tu función: _tiene guardas innecesarias_ no digas que no te avisamos :stuck_out_tongue:.
