@@ -8,5 +8,3 @@ expectations:
   inspection: HasUsage:programa
 - binding: horasDuerme
   inspection: Not:HasUsage:&&
-- binding: ''
-  inspection: ''
