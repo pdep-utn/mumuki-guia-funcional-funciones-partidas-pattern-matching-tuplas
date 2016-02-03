@@ -1,12 +1,14 @@
 Hasta ahora vimos los elementos básicos del paradigma funcional y del leguage Haskell:
-* Qué son los valores.
-* Qué son las funciones y cómo definirlas.
+
+* Qué son las variables, valores y funciones
 * Cómo a partir de varias funciones componerlas para crear nuevas.
-* Qué las funciones también eran valores lo que nos permitía usarlas como parámetro.
-* Algunas cosas básicas de los tipos de datos de los valores.
+* Que las funciones pueden ser aplicadas parcialmente
+* Que las funciones son valores y eso nos permite definir funciones de orden superior, que tomen o devuelvan funciones
+* Y tipos de datos, hasta en la sopa :tired_face:
 
-En esta guía comenzaremos viendo las **funciones partidas** o por tramos, que dependiendo de nuestra entrada (*dominio*) resultará en un cálculo o proceso distinto para arrojar una salida (*imagen*).
+Hasta ahora pudimos avanzar sin tener que escribir código condicional. Si bien en funcional podemos esquivarlo much más que en otros paradigmas, hay veces en las que no podremos evitarlo.  
 
-Por último conoceremos las **tuplas**, que son _datos compuestos_ por cantidad de valores fijos que nos ayudaran a modelar valores más complejos.
+En esta lección, entonces, veremos las **funciones partidas** y el **pattern matching** (_encaje de patrones_), que nos permitirán resolver más problemas.
+
 
 ¡Allá vamos!
