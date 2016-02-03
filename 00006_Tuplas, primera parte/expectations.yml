@@ -6,5 +6,3 @@ expectations:
   inspection: HasUsage:fst
 - binding: distanciaAlOrigen
   inspection: HasUsage:snd
-- binding: ''
-  inspection: ''

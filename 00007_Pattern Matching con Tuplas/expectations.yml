@@ -4,3 +4,5 @@ expectations:
   inspection: HasBinding
 - binding: poderSoldado
   inspection: HasAnonymousVariable
+- binding: ''
+  inspection: ''
