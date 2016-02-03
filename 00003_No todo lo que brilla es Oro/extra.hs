@@ -1,0 +1,2 @@
+esChico = fst
+esBorracho = snd
