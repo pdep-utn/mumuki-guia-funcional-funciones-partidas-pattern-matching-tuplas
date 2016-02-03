@@ -1,4 +1,5 @@
 Ahora supongamos que queremos definir una función que nos indica según una edad, la cantidad de horas de sueño recomendable, que la describiremos (arbitrariamente) de la siguiente forma:
+
 * Para menores de 5 -> 11 horas
 * Para mayores de 30 -> 7 horas
 * Para cualquier otra edad -> 8 horas
@@ -15,9 +16,8 @@ Así entonces, utilizaremos otherwise (que en español significa "de otra manera
 
 Esta condición peculiar siempre debe ir debajo de las demás condiciones de la ya *las que estén debajo nunca se llegarán a evaluar*.
 
-###Manos a la obra:
-
-Definí la función `cantidadDePochoclosParaMinutosDeCine`, que devuelve la cantidad de paquetes de pochoclos dada una cierta cantidad de minutos mirando una película en el cine :stuck_out_tongue: :
-*   Si la película dura menos de 40 minutos entonces se necesitan solo 2 paquetes,
-*   si dura más de 200 horas, alcanza con solo 10 paquetes,
-*   en cualquier otro caso, la cantidad de paquetes se calcula como 1 paquete por cada 20 minutos de película. 
+> Definí la función `cantidadDePochoclosParaMinutosDeCine`, que devuelve la cantidad de paquetes de pochoclos dada una cierta cantidad de minutos mirando una película en el cine :stuck_out_tongue: :
+>
+> *   Si la película dura menos de 40 minutos entonces se necesitan solo 2 paquetes,
+> *   si dura más de 200 horas, alcanza con solo 10 paquetes,
+> *   en cualquier otro caso, la cantidad de paquetes se calcula como 1 paquete por cada 20 minutos de película. 
