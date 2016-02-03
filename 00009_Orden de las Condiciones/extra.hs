@@ -1,2 +1,2 @@
-programa = fst 
-estudiaIngenieria = snd
+programa = snd
+estudiaIngenieria = fst
