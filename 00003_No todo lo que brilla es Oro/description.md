@@ -4,7 +4,7 @@ Ahora se nos pide hacer una función que dada una edad diga si es una edad Adult
 
 Con lo que hemos aprendido de guardas estamos tentados a hacer lo siguiente:
 
-```
+```haskell
 esEdadAdulta edad   | edad > 18 = True
                     | otherwise = False
 ```
