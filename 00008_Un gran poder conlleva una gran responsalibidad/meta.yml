@@ -3,5 +3,5 @@ tags:
 - tuplas
 - abstracciones
 - deconstruir
-layout: no_editor
+layout: editor_bottom
 type: playground
