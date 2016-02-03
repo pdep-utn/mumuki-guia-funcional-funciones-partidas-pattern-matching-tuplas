@@ -9,4 +9,4 @@ describe "" $ do
     horasDuerme (True, True) `shouldBe` 4
 
   it "horasDuerme no ingeniero ni programador debe arrojar error" $ do
-    evaluate (horasDuerme (False, False)) `shouldThrow` anyException
+    Exception.evaluate (horasDuerme (False, False)) `shouldThrow` anyException
