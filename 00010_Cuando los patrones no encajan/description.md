@@ -2,7 +2,7 @@ Como habrás notado, cuando a una función definida con pattern matching la apli
 
 Entonces, ¿qué hacemos? ¿Llorar?
 
-Sí, podría ser una opción, pero mejor especiquemos un caso por defecto, que siempre va a encajar: 
+Sí, podría ser una opción, pero mejor especifiquemos un caso por defecto, que siempre va a encajar: 
 
 ```haskell
 esVocalCerrada 'o' = True
