@@ -4,5 +4,3 @@ expectations:
   inspection: HasBinding
 - binding: minimoEntre
   inspection: HasGuards
-- binding: ''
-  inspection: ''

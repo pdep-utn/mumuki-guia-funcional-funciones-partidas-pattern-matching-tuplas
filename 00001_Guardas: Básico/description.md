@@ -17,5 +17,5 @@ Como siempre empezamos con el nombre de la función seguido de los parametros, e
 
 > ¡Ahora intentalo vos!:
 > 
-> Definí la función `minimoEntre\2` que dado dos números devuelve el menor de ellos. (En caso de ser iguales devuelve cualquiera de los dos, pero lo importante es que devuelva alguno).
+> Definí la función `minimoEntre` que dado dos números devuelve el menor de ellos. (En caso de ser iguales devuelve cualquiera de los dos, pero lo importante es que devuelva alguno).
 
