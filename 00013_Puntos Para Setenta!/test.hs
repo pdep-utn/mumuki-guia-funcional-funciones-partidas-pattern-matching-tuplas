@@ -12,8 +12,8 @@ describe "" $ do
     puntosParaSetenta 1 `shouldBe` 5.5
 
   it "puntosParaSetenta 6 es 6" $ do
-    puntosParaSetenta 6 `shouldBe` 6
+    puntosParaSetenta 6 `shouldBe` (6 :: Float)
 
   it "puntosParaSetenta 7 es 7" $ do
-    puntosParaSetenta 7 `shouldBe` 7
+    puntosParaSetenta 7 `shouldBe` (7 :: Float)
     
