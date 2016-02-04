@@ -11,11 +11,5 @@ Por ejemplo, si queremos saber la suma de un par ordenado:
 sumaDeParOrdenado parOrdenado = fst parOrdenado + snd parOrdenado
 ```
 
-
-Ahora te toca a vos:
-
-Definí la función `distanciaAlOrigen` que recibe un par ordenado y devuelve la distancia al origen, utilizá las funciones `fst` y `snd`.
-
-(La fórmula de la distancia al origen es la raíz cuadrada de (x al cuadrado + y al cuadrado) )
-
-Algunas funciones útiles: `sqrt`-> raíz cuadrada, `(^)` -> operador exponenciación.
+> Definí la función `distanciaAlOrigen` que recibe un par ordenado y devuelve la distancia al origen, utilizá las funciones `fst` y `snd`.
+> 
