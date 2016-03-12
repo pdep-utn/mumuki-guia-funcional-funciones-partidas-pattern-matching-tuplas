@@ -4,5 +4,3 @@ expectations:
   inspection: Not:HasUsage:==
 - binding: esCero
   inspection: Not:HasGuards
-- binding: ''
-  inspection: ''

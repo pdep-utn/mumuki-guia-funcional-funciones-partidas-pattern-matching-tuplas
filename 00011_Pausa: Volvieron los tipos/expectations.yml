@@ -4,5 +4,3 @@ expectations:
   inspection: HasTypeSignature
 - binding: esVocalCerrada
   inspection: Not:HasBinding
-- binding: ''
-  inspection: ''

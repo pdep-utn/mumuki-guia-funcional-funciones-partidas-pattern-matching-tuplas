@@ -6,5 +6,3 @@ expectations:
   inspection: HasBinding
 - binding: puntosParaSetenta
   inspection: Not:HasGuards
-- binding: ''
-  inspection: ''

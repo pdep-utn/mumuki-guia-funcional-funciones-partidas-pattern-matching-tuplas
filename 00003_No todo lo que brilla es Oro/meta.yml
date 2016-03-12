@@ -4,3 +4,4 @@ tags:
 - guardas innecesarias
 layout: editor_bottom
 type: problem
+extra_visible: false
