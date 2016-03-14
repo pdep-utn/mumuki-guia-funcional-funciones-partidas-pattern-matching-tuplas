@@ -1,0 +1,1 @@
+soldadoLeGanaA ganador perdedor = poderSoldado ganador > poderSoldado perdedor
