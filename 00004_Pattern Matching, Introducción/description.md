@@ -1,4 +1,4 @@
-_**Pattern Matching** consiste en especificar **patrones** que deben cumplir un cierto dato y luego si lo hace, deconstrir el dato de acuerdo a esos patrones._
+_**Pattern Matching** consiste en especificar **patrones** que deben cumplir un cierto dato y luego si lo hace, deconstruir el dato de acuerdo a esos patrones._
 
 ¿Patrones?, ¿Deconstruir dato?, ¿De qué me perdí? :anguished:
 
