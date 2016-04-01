@@ -14,7 +14,7 @@ horasSuennoRecomendadoEnEdad x  | x < 5 = 11
 
 Así entonces, utilizaremos otherwise (que en español significa "de otra manera") cuando querramos definir a que equivale la función en el caso de que **no se cumplan ninguna de las anteriores condiciones**.
 
-Esta condición peculiar siempre ser siempre la última. Si no, cosas terribles podrian suceder :disappointed_relieved:
+Esta condición peculiar debe ser siempre la última. Si no, cosas terribles podrian suceder :disappointed_relieved:
 
 > Definí la función `cantidadDePochoclosParaMinutosDeCine`, que devuelve la cantidad de paquetes de pochoclos dada una cierta cantidad de minutos mirando una película en el cine :stuck_out_tongue: :
 >
