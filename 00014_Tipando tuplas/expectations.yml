@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: distanciaAlOrigen
+  inspection: HasUsage:snd
+- binding: distanciaAlOrigen
+  inspection: HasUsage:fst
