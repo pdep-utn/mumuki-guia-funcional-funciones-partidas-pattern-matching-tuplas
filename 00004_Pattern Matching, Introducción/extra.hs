@@ -1,5 +1,5 @@
-esVocalCerrada 'o' = True
+esVocalCerrada 'i' = True
 esVocalCerrada 'u' = True
 esVocalCerrada 'a' = False
 esVocalCerrada 'e' = False
-esVocalCerrada 'i' = False
+esVocalCerrada 'o' = False
