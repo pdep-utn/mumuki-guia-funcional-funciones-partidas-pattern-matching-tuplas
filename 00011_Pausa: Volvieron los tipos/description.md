@@ -2,7 +2,7 @@ _¿Alguien puede pensar en los tipos?_
 
 Todo muy lindo, pero hasta ahora nunca dijimos como se tipan estas partidas mediante guardas o pattern matching. 
 
-La regla idea es simple: cada parte se tipa por separado, pero al final, el tipo de todas las partes debe ser el mismo. 
+La regla es simple: cada parte se tipa por separado, pero al final, el tipo de todas las partes debe ser el mismo. 
 
 Ejemplos que no funcionan: 
 
