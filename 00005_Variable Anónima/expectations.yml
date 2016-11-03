@@ -1,11 +1,8 @@
 ---
 expectations:
-- !ruby/hash:BSON::Document
-  binding: estadoDeAnimo
+- binding: estadoDeAnimo
   inspection: HasBinding
-- !ruby/hash:BSON::Document
-  binding: estadoDeAnimo
+- binding: estadoDeAnimo
   inspection: Not:HasGuards
-- !ruby/hash:BSON::Document
-  binding: estadoDeAnimo
+- binding: estadoDeAnimo
   inspection: HasAnonymousVariable

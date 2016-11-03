@@ -1,14 +1,10 @@
 ---
 expectations:
-- !ruby/hash:BSON::Document
-  binding: siempreDiceLaVerdad
+- binding: siempreDiceLaVerdad
   inspection: HasBinding
-- !ruby/hash:BSON::Document
-  binding: siempreDiceLaVerdad
+- binding: siempreDiceLaVerdad
   inspection: Not:HasGuards
-- !ruby/hash:BSON::Document
-  binding: siempreDiceLaVerdad
+- binding: siempreDiceLaVerdad
   inspection: HasUsage:esBorracho
-- !ruby/hash:BSON::Document
-  binding: siempreDiceLaVerdad
+- binding: siempreDiceLaVerdad
   inspection: HasUsage:esChico

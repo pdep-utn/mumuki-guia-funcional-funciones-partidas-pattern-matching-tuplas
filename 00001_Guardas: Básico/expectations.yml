@@ -1,8 +1,6 @@
 ---
 expectations:
-- !ruby/hash:BSON::Document
-  binding: minimoEntre
+- binding: minimoEntre
   inspection: HasBinding
-- !ruby/hash:BSON::Document
-  binding: minimoEntre
+- binding: minimoEntre
   inspection: HasGuards

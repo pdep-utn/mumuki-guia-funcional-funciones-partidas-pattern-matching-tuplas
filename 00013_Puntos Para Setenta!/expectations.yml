@@ -1,11 +1,8 @@
 ---
 expectations:
-- !ruby/hash:BSON::Document
-  binding: puntosParaSetenta
+- binding: puntosParaSetenta
   inspection: HasTypeSignature
-- !ruby/hash:BSON::Document
-  binding: puntosParaSetenta
+- binding: puntosParaSetenta
   inspection: HasBinding
-- !ruby/hash:BSON::Document
-  binding: puntosParaSetenta
+- binding: puntosParaSetenta
   inspection: Not:HasGuards
