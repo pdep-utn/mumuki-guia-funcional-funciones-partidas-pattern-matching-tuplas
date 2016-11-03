@@ -3,7 +3,8 @@ tags:
 - tuplas
 - abstracciones
 - deconstruir
-layout: editor_bottom
+layout: input_bottom
+editor: code
 type: playground
 extra_visible: false
 language: 

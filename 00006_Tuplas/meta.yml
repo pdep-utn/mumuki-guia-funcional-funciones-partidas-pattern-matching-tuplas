@@ -3,7 +3,8 @@ tags:
 - tuplas
 - fst
 - snd
-layout: editor_right
+layout: input_right
+editor: code
 type: playground
 extra_visible: false
 language: 

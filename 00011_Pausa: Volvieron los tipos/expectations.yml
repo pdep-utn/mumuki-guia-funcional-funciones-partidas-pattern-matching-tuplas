@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: esVocalCerrada
+- !ruby/hash:BSON::Document
+  binding: esVocalCerrada
   inspection: HasTypeSignature
-- binding: esVocalCerrada
+- !ruby/hash:BSON::Document
+  binding: esVocalCerrada
   inspection: Not:HasBinding

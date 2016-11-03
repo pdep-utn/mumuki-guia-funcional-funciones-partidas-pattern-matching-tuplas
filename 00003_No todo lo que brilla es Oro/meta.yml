@@ -2,7 +2,8 @@
 tags:
 - guardas
 - guardas innecesarias
-layout: editor_bottom
+layout: input_bottom
+editor: code
 type: problem
 extra_visible: false
 language: 
