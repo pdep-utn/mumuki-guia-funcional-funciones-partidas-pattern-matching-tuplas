@@ -1,4 +1,4 @@
-Al usar guardas las condiciones siempre son evaluadas **de arriba hacia abajo**, osea si no cumple la primera condición se fija con la siguiente y así sucesivamente.
+Al usar guardas las condiciones siempre son evaluadas **de arriba hacia abajo**, o sea si no cumple la primera condición se fija con la siguiente y así sucesivamente.
 
 Ejemplo:
 
@@ -21,4 +21,4 @@ La función nunca entrará por la 2da segunda condición, es decir, nuncara reto
 > 
 > Asumir que las funciones `programa`, `estudiaIngenieria` ambas reciben una persona y ya están desarrolladas.
 > 
-> Tener en cuenta también que estudiar ingeniería es más fuerte que programar, osea la persona que hace ambas solo duerme 4 horas :stuck_out_tongue:. Está prohibido usar para resolver esto último el `&&`.
+> Tener en cuenta también que estudiar ingeniería es más fuerte que programar, o sea la persona que hace ambas solo duerme 4 horas :stuck_out_tongue:. Está prohibido usar para resolver esto último el `&&`.
