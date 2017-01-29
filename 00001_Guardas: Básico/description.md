@@ -2,7 +2,7 @@ Pensemos por un momento en la función `valorAbsoluto`. Esta conocida función e
 
 ![Modulo](http://uqbar-wiki.org/images/f/f7/Modulo.gif)
 
-Es decir, la **imagen** (lo que retorna la función) se calcula diferente según cuales sean sus parámtros.
+Es decir, la **imagen** (lo que retorna la función) se calcula diferente según cuales sean sus parámetros.
 
 ¿Cuál sería el equivalente en Haskell?
 
