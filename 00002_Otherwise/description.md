@@ -12,7 +12,7 @@ horasSuennoRecomendadoEnEdad x  | x < 5 = 11
                                 | otherwise = 8
 ```
 
-Así entonces, utilizaremos otherwise (que en español significa "de otra manera") cuando querramos definir a que equivale la función en el caso de que **no se cumplan ninguna de las anteriores condiciones**.
+Así entonces, utilizaremos otherwise (que en español significa "de otra manera") cuando queramos definir a que equivale la función en el caso de que **no se cumplan ninguna de las anteriores condiciones**.
 
 Esta condición peculiar debe ser siempre la última. Si no, cosas terribles podrian suceder :disappointed_relieved:
 
