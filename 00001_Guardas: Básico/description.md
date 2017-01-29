@@ -13,7 +13,7 @@ valorAbsoluto x  | x >= 0 = x
 
 ¡No es taaan distinto!, pero tomémonos un tiempo para ver las diferencias y similitudes.
 
-Como siempre empezamos con el nombre de la función seguido de los parametros, eso no cambió, luego cada "definición" de la función empieza con el caracter _pipe_ '|', seguido de la condición que tiene que cumplirse y después a que es igual en tal caso. 
+Como siempre empezamos con el nombre de la función seguido de los parámetros, eso no cambió, luego cada "definición" de la función empieza con el caracter _pipe_ '|', seguido de la condición que tiene que cumplirse y después a que es igual en tal caso. 
 
 > ¡Ahora intentalo vos!:
 > 
