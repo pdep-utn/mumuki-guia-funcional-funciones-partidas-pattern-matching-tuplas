@@ -2,7 +2,7 @@ Ahora que aprendimos a como deconstruir una tupla vamos a querer, como siempre, 
 
 El chiste de la tupla es que no voy a querer siempre tratar los valores que la componen por separado, sino no tendría sentido agruparlos.
 
-Para dar un ejemplo aprovechemos la tupla que habíamos creado para representar un soldado en el ejercicio anterior. Ahora queremos una función `soldadoLeGanaA/2` que recibe dos tuplas de este tipo, o mejor dicho dos soldados, devuelva si el primero tiene mayor poder que el segundo:
+Para dar un ejemplo aprovechemos la tupla que habíamos creado para representar un soldado en el ejercicio anterior. Ahora queremos una función `soldadoLeGanaA/2` que recibe dos tuplas de este tipo, o mejor dicho dos soldados, y devuelve si el primero tiene mayor poder que el segundo:
 
 ```haskell
 soldadoLeGanaA ganador perdedor = poderSoldado ganador > poderSoldado perdedor
