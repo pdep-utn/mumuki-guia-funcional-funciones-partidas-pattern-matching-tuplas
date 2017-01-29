@@ -8,6 +8,6 @@ Para dar un ejemplo aprovechemos la tupla que habíamos creado para representar 
 soldadoLeGanaA ganador perdedor = poderSoldado ganador > poderSoldado perdedor
 ```
 
-Como vemos a la función `soldadoLeGanaA\2` no le interesa deconstruir o saber como está compuesta la tupla del soldado, sino que usa al soldado como una [abstracción](http://uqbar-wiki.org/index.php?title=Abstracci%C3%B3n), y es la función `poderSoldado\1` la que sí utilizará los valores que contiene para poder calcular el poder.
+Como vemos a la función `soldadoLeGanaA/2` no le interesa deconstruir o saber cómo está compuesta la tupla del soldado, sino que usa al soldado como una [abstracción](http://uqbar-wiki.org/index.php?title=Abstracci%C3%B3n), y es la función `poderSoldado/1` la que sí utilizará los valores que contiene para poder calcular el poder.
 
 Probá esta función pasando dos soldados de tipo (String, Int, Int).
