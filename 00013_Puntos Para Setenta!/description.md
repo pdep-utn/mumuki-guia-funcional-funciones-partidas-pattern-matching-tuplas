@@ -1,6 +1,6 @@
 ¡Ahora te toca a vos!
 
-En el conocido juego de [la escoba de 15](https://es.wikipedia.org/wiki/Escoba_del_15) tenemos que una forma de ganar puntos es mediante el criterio de "setenta" en el cual una carta tiene un valor especifico dependiendo su numero:
+En el conocido juego de [la escoba de 15](https://es.wikipedia.org/wiki/Escoba_del_15) tenemos que una forma de ganar puntos es mediante el criterio de "setenta" en el cual una carta tiene un valor especifico dependiendo su número:
 
 * El as (1) tienen 5.5 puntos
 * Las figuras (10, 11, 12) tienen 0.5 puntos
