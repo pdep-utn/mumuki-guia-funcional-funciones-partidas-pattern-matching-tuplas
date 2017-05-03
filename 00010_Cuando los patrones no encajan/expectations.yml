@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: esCero
+- !ruby/hash:BSON::Document
+  binding: esCero
   inspection: Not:HasUsage:==
-- binding: esCero
+- !ruby/hash:BSON::Document
+  binding: esCero
   inspection: Not:HasGuards

@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: distanciaAlOrigen
+- !ruby/hash:BSON::Document
+  binding: distanciaAlOrigen
   inspection: HasUsage:snd
-- binding: distanciaAlOrigen
+- !ruby/hash:BSON::Document
+  binding: distanciaAlOrigen
   inspection: HasUsage:fst
