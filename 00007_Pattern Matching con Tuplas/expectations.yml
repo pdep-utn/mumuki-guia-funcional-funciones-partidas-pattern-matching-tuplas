@@ -1,8 +1,6 @@
 ---
 expectations:
-- !ruby/hash:BSON::Document
-  binding: poderSoldado
+- binding: poderSoldado
   inspection: HasBinding
-- !ruby/hash:BSON::Document
-  binding: poderSoldado
+- binding: poderSoldado
   inspection: HasAnonymousVariable

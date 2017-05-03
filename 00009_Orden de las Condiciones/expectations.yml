@@ -1,14 +1,10 @@
 ---
 expectations:
-- !ruby/hash:BSON::Document
-  binding: horasDuerme
+- binding: horasDuerme
   inspection: HasBinding
-- !ruby/hash:BSON::Document
-  binding: horasDuerme
+- binding: horasDuerme
   inspection: HasUsage:estudiaIngenieria
-- !ruby/hash:BSON::Document
-  binding: horasDuerme
+- binding: horasDuerme
   inspection: HasUsage:programa
-- !ruby/hash:BSON::Document
-  binding: horasDuerme
+- binding: horasDuerme
   inspection: Not:HasUsage:&&

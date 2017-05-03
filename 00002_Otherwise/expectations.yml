@@ -1,11 +1,8 @@
 ---
 expectations:
-- !ruby/hash:BSON::Document
-  binding: cantidadDePochoclosParaMinutosDeCine
+- binding: cantidadDePochoclosParaMinutosDeCine
   inspection: HasBinding
-- !ruby/hash:BSON::Document
-  binding: cantidadDePochoclosParaMinutosDeCine
+- binding: cantidadDePochoclosParaMinutosDeCine
   inspection: HasGuards
-- !ruby/hash:BSON::Document
-  binding: cantidadDePochoclosParaMinutosDeCine
+- binding: cantidadDePochoclosParaMinutosDeCine
   inspection: HasUsage:otherwise
