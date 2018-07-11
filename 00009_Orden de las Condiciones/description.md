@@ -8,7 +8,7 @@ funcionInutil numero    | numero > 0 = 1
                         | numero <= 0 = 3
 ```
 
-La función nunca entrará por la 2da segunda condición, es decir, nuncara retornará 2, ya que si numero es mayor a 2 también lo será a 0 y cumplirá la primera condición retornando 1. 
+La función nunca entrará por la 2da segunda condición, es decir, nunca retornará 2, ya que si numero es mayor a 2 también lo será a 0 y cumplirá la primera condición retornando 1. 
 
 ¡El orden importa!. Deberemos tenerlo en cuenta al usar las guardas siempre que armemos condiciones que no son necesariamente excluyentes.
 
