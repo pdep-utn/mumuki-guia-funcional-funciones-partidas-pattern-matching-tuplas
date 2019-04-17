@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: poderSoldado
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: poderSoldado
   inspection: HasBinding
-- binding: poderSoldado
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: poderSoldado
   inspection: HasAnonymousVariable

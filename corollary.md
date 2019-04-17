@@ -1,3 +1,3 @@
-¡Genial! Ahora ya sabés: Cómo definir funciones partidas, definiendo cada camino con condiciones, mediante **guardas** o con chequeo de la estructura o valores definidos, mediante **Pattern Matching**.
+¡Genial! Ahora ya sabés cómo definir funciones partidas: ya sea definiendo cada camino con condiciones, mediante **guardas**, o bien con chequeo de la estructura o valores definidos, mediante **Pattern Matching**.
 
-También hemos conocido las **tuplas**, como datos compuestos. Los cuales utilizamos como una unidad mientras que no necesitemos conocer sus componentes y que cuando sí los utlizamos la podemos desglosar con el uso de Pattern Matching.
+También hemos conocido las **tuplas**, como datos compuestos, que utilizamos como una unidad mientras no necesitemos conocer sus componentes; si los necesitamos, la podemos desglosar con el uso de Pattern Matching.

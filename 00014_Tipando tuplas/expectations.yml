@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: distanciaAlOrigen
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: distanciaAlOrigen
   inspection: HasUsage:snd
-- binding: distanciaAlOrigen
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: distanciaAlOrigen
   inspection: HasUsage:fst

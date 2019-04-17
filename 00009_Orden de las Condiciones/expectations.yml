@@ -1,10 +1,14 @@
 ---
 expectations:
-- binding: horasDuerme
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: horasDuerme
   inspection: HasBinding
-- binding: horasDuerme
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: horasDuerme
   inspection: HasUsage:estudiaIngenieria
-- binding: horasDuerme
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: horasDuerme
   inspection: HasUsage:programa
-- binding: horasDuerme
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: horasDuerme
   inspection: Not:HasUsage:&&

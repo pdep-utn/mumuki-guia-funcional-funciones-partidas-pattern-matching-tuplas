@@ -4,8 +4,9 @@ tags:
 - funciones partidas
 - pattern matching
 layout: input_right
-editor: code
+editor: 0
 type: playground
 extra_visible: false
 manual_evaluation: false
 choices: []
+name: Pattern Matching, Introducción

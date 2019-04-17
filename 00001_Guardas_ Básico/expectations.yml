@@ -1,8 +1,8 @@
 ---
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: esCero
-  inspection: Not:HasUsage:==
+  binding: minimoEntre
+  inspection: HasBinding
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: esCero
-  inspection: Not:HasGuards
+  binding: minimoEntre
+  inspection: HasGuards
