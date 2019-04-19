@@ -1,4 +1,4 @@
-Al usar guardas las condiciones siempre son evaluadas **de arriba hacia abajo**, o sea si no cumple la primera condición se fija con la siguiente y así sucesivamente.
+Al usar guardas las condiciones siempre son evaluadas **de arriba hacia abajo**, es decir que si no cumple la primera condición se fija con la siguiente y así sucesivamente.
 
 Ejemplo:
 
