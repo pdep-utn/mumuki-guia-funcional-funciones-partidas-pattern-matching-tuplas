@@ -1,4 +1,4 @@
-Ahora que aprendimos a como deconstruir una tupla vamos a querer, como siempre, utilizarlo en todos lados, **pero eso no siempre es conveniente**.
+Ahora que aprendimos cómo deconstruir una tupla vamos a querer, como siempre, utilizarlo en todos lados, **pero eso no siempre es conveniente**.
 
 El chiste de la tupla es que no voy a querer siempre tratar los valores que la componen por separado, sino no tendría sentido agruparlos.
 
