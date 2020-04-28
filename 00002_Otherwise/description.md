@@ -6,10 +6,11 @@ Ahora supongamos que queremos definir una función que nos indica según una eda
 
 Esto lo podemos escribir de la siguiente forma:
 
-```
-horasSuennoRecomendadoEnEdad x  | x < 5 = 11
-                                | x > 30 = 7
-                                | otherwise = 8
+```haskell
+horasSuenioRecomendadoEnEdad edad
+  | edad < 5 = 11
+  | edad > 30 = 7
+  | otherwise = 8
 ```
 
 Así entonces, utilizaremos otherwise (que en español significa "de otra manera") cuando queramos definir a que equivale la función en el caso de que **no se cumplan ninguna de las anteriores condiciones**.
