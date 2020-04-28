@@ -1,8 +1,6 @@
 ---
-tags:
-- patrones
-- funciones partidas
-- pattern matching
+locale: es
+tags: []
 layout: input_right
 editor: 0
 type: playground

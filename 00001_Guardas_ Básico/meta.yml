@@ -1,7 +1,6 @@
 ---
-tags:
-- guardas
-- funciones partidas
+locale: es
+tags: []
 layout: input_right
 editor: code
 type: problem

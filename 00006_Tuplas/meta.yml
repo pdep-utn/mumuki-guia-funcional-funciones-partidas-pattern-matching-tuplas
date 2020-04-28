@@ -1,8 +1,6 @@
 ---
-tags:
-- tuplas
-- fst
-- snd
+locale: es
+tags: []
 layout: input_right
 editor: 0
 type: playground

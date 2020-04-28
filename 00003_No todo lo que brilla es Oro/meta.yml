@@ -1,7 +1,6 @@
 ---
-tags:
-- guardas
-- guardas innecesarias
+locale: es
+tags: []
 layout: input_bottom
 editor: code
 type: problem

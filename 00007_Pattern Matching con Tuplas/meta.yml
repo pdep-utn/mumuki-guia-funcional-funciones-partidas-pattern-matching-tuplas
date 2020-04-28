@@ -1,9 +1,6 @@
 ---
-tags:
-- deconstruir
-- pattern matching
-- tuplas
-- patrones
+locale: es
+tags: []
 layout: input_right
 editor: code
 type: problem

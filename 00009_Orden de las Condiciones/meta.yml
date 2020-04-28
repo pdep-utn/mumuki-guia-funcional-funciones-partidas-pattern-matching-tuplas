@@ -1,7 +1,6 @@
 ---
-tags:
-- orden guardas
-- dominio reducido
+locale: es
+tags: []
 layout: input_right
 editor: code
 type: problem

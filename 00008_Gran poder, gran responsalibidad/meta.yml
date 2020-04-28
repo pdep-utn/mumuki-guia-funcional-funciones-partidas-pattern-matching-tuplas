@@ -1,8 +1,6 @@
 ---
-tags:
-- tuplas
-- abstracciones
-- deconstruir
+locale: es
+tags: []
 layout: input_bottom
 editor: 0
 type: playground

@@ -9,3 +9,6 @@ expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: cantidadDePochoclosParaMinutosDeCine
   inspection: HasUsage:otherwise
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
+  inspection: Except:HasTooShortIdentifiers
