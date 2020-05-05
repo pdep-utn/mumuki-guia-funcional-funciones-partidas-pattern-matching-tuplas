@@ -8,4 +8,4 @@ expectations:
   inspection: HasGuards
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: cantidadDePochoclosParaMinutosDeCine
-  inspection: HasUsage:otherwise
+  inspection: Uses:otherwise
